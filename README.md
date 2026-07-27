@@ -11,7 +11,7 @@
 </div>
 
 ## 💫 About Me: <img align="right" width="340" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
-🎓 MCA Student<br>💻 Python | JavaScript | HTML | CSS | Django | Flask<br>🗄️ MySQL | SQL | SQLite <br>🚀 Passionate about Full Stack Web Development and AI<br>🌱 Currently learning React.js and modern web technologies<br>📫 Reach me: prajwalmohan01@gmail.com​
+🎓 MCA Student <br>💻 Python | JavaScript | HTML | CSS | Django | Flask<br>🗄️ MySQL | SQL | SQLite <br>🚀 Passionate about Full Stack Web Development and AI<br>🌱 Currently learning React.js and modern web technologies<br>📫 Reach me: prajwalmohan01@gmail.com​
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prajwalmohan_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prajwalmohan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/prajwalmohan_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prajwalmohan01@gmail.com)
