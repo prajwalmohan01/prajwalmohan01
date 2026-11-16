@@ -61,12 +61,6 @@
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=prajwalmohan01&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
-### 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake"/>
-
-<div align="center">
-
 ### ⭐ Thanks for visiting my profile!
 
 *"Code • Learn • Build • Repeat"*
