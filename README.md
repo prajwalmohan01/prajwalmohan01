@@ -5,10 +5,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=A+passionate+developer+from+India;Full+Stack+Developer;Python+Developer;Django+%7C+Flask+Developer;Learning+React.js;Always+Building+Something+Awesome" />
 
 <br>
-
-<img src="https://komarev.com/ghpvc/?username=prajwalmohan01&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-
-<br>
 <br>
 
 <img src="https://i.ibb.co/5gGkJqHt/prajwal-mohan.gif"/>
@@ -84,6 +80,6 @@ Always exploring new ideas, building useful <b>Websites, APIs</b>,
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/TechifyBots/TechifyBots/main/assets/footer.svg" width="600" alt="footer"/>
+<img src="https://raw.githubusercontent.com/prajwalmohan01/prajwalmohan01/main/footer.svg" width="600" alt="footer"/>
 
 </div>
