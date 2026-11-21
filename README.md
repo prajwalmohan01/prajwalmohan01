@@ -8,6 +8,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=prajwalmohan01&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
+<img src="https://i.ibb.co/5gGkJqHt/prajwal-mohan.gif"/>
+
 </div>
 
 ## 💫 About Me:
