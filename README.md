@@ -8,6 +8,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=prajwalmohan01&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
+<br>
+<br>
+
 <img src="https://i.ibb.co/5gGkJqHt/prajwal-mohan.gif"/>
 
 </div>
@@ -63,8 +66,21 @@
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=prajwalmohan01&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
-### ⭐ Thanks for visiting my profile!
+[![Last Updated](https://img.shields.io/github/last-commit/prajwalmohan01/prajwalmohan01/main?label=LAST%20UPDATED&style=for-the-badge&logo=github&logoColor=white&color=0A66C2)](https://github.com/prajwalmohan01) [![Profile Views](https://komarev.com/ghpvc/?username=prajwalmohan01&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/prajwalmohan01)
 
-*"Code • Learn • Build • Repeat"*
+
+#### 🚀 Always Building
+  <i align="center">
+    Always exploring new ideas, building useful <b>Telegram Bots, APIs</b>,
+    <br>
+    <b>Automation Tools</b>, and contributing to <b>Open Source Projects</b>.
+  </i>
+</div>
+
+<br/>
+<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TechifyBots/TechifyBots/main/assets/footer.svg" width="600" alt="footer"/>
+</p>
 
 </div>
